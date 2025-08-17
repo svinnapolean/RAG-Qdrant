@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\RAG\\RAG_Qdrant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8340060C-A4C0-AD49-9EB8-7D65070B5A9F}|RAG_Qdrant.csproj|d:\\source\\rag\\rag_qdrant\\qdrantmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340060C-A4C0-AD49-9EB8-7D65070B5A9F}|RAG_Qdrant.csproj|solutionrelative:qdrantmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340060C-A4C0-AD49-9EB8-7D65070B5A9F}|RAG_Qdrant.csproj|d:\\source\\rag\\rag_qdrant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340060C-A4C0-AD49-9EB8-7D65070B5A9F}|RAG_Qdrant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340060C-A4C0-AD49-9EB8-7D65070B5A9F}|RAG_Qdrant.csproj|d:\\source\\rag\\rag_qdrant\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340060C-A4C0-AD49-9EB8-7D65070B5A9F}|RAG_Qdrant.csproj|solutionrelative:embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QdrantMemoryStore.cs",
+              "DocumentMoniker": "D:\\source\\RAG\\RAG_Qdrant\\QdrantMemoryStore.cs",
+              "RelativeDocumentMoniker": "QdrantMemoryStore.cs",
+              "ToolTip": "D:\\source\\RAG\\RAG_Qdrant\\QdrantMemoryStore.cs",
+              "RelativeToolTip": "QdrantMemoryStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:19:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmbeddingService.cs",
+              "DocumentMoniker": "D:\\source\\RAG\\RAG_Qdrant\\EmbeddingService.cs",
+              "RelativeDocumentMoniker": "EmbeddingService.cs",
+              "ToolTip": "D:\\source\\RAG\\RAG_Qdrant\\EmbeddingService.cs",
+              "RelativeToolTip": "EmbeddingService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwG4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:16:02.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\RAG\\RAG_Qdrant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\source\\RAG\\RAG_Qdrant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:08:47.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
