@@ -1,5 +1,5 @@
 
-# 🧠 RAG-Qdrant: Semantic Kernel + Phi-4 + Qdrant
+# 🧠 Agentic AI RAG-Qdrant: Semantic Kernel + Phi-4 + Qdrant
 
 This program demonstrates a local Retrieval-Augmented Generation (RAG) pipeline using:
 
