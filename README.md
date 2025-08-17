@@ -105,3 +105,6 @@ Citations: [#1], [#2], ...
 - Extend with Semantic Kernel planner or memory modules for agentic workflows.
 
 ---
+### 📬 Contact
+
+For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/vincent-napolean-susai) or open an issue.
